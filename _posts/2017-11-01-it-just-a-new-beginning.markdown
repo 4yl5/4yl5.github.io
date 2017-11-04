@@ -1,7 +1,6 @@
 ---
 title: #{title}
 layout: post
-guid: urn:uuid:#{uuid}
 tags:
   - website
   - jekyll
