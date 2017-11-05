@@ -17,6 +17,6 @@ mail
 
 or follow 
 
-> [@4yl5](https://twitter.com/#!/4yl5)
+> [@4yl5](https://twitter.com/4yl5)
 
 to reach me
