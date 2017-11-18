@@ -5,18 +5,12 @@ layout: page
 
 a
 
-> Gemini | Appleist | Wanderlust
+> | Gemini | Appleist | Wanderlust |
 
-who involved in 
+who could be found in 
 
-> [github](https://github.com/4yl5)
+> Twtiiter: [@4yl5](https://twitter.com/4yl5)
 
-mail 
+or in
 
-> [email](n/a)
-
-or follow 
-
-> [@4yl5](https://twitter.com/4yl5)
-
-to reach me
+> Flickr: [https://www.flickr.com/photos/snake_bill/](https://www.flickr.com/photos/snake_bill/)
