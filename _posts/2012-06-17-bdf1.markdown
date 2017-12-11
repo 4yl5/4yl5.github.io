@@ -1,6 +1,7 @@
 ---
 title: 生日&蒙特利尔&F1
 layout: post
+guid: urn:uuid:6f121259-42c0-4a86-9805-6c88c44c386e
 tags:
 - Canada
 - F1

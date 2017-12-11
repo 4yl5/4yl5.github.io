@@ -1,6 +1,7 @@
 ---
 title: Blogs Recovered
 layout: post
+guid: urn:uuid:ce0d7dac-814e-4284-8994-728464bd29ab
 tags:
   - website
 ---

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="author" content="yulin" />
+    <meta name="author" content="Yulin" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     
     <title>卡理佛泥呀——零碎</title>
@@ -147,13 +147,60 @@ Bus加Metro坐了近两个小时。我对美帝的公交系统已经很淡定了
 
   </section>
   
+  <div class="divider">
+    <span>
+    
+    <a href="/2012/02/05/f3hp.html"><i class="fa fa-chevron-left"></i></a>
+    
+    </span>
+ 
+    <span><a href="javascript:leave_comment();" id="leave_comment_link"><i class="fa fa-comment-o"></i></a></span>
+    <span><a href="javascript:collapse_comment();" id="collapse_comment_link" style="display:none;"><i class="fa fa-chevron-up"></i></a></span>
+
+
+    <span>
+    
+    <a href="/2012/05/25/this-2-week.html"><i class="fa fa-chevron-right"></i></a>
+    
+    </span>
+  </div>
+
+
+  <section class="comment">
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+      var disqus_shortname = '{"shortname"=>"yulin-me"}';
+      var disqus_identifier = 'urn:uuid:95c945f4-0a68-41a0-8d68-5f57a3e4471a';
+
+      function leave_comment() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = 'http://yulin-me.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+          $("#leave_comment_link").css("display", "none");
+          $("#collapse_comment_link").css("display", "");
+      };
+      function collapse_comment() {
+          // document.getElementById("disqus_thread").innerHTML = '';
+          $("#disqus_thread").slideUp(400, function() {
+              $("#disqus_thread").empty();
+              $("#leave_comment_link").css("display", "");
+              $("#collapse_comment_link").css("display", "none");
+              $("#disqus_thread").css("display", "");
+          });
+      };
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  </section>
+
+
+  
 </article>
 
         </div>
         <footer>
           <div>
             
-            &copy; 2010 ~ 2017 yulin | powered by jekyll | themed by <a href="http://lhzhang.com" title="sext vi">sext vi</a> | fork <a href="https://github.com/waynezhang/blog" title="fork me">me</a>
+            &copy; 2010 ~ 2017 Yulin | powered by jekyll | themed by <a href="http://lhzhang.com" title="sext vi">sext vi</a> | fork <a href="https://github.com/waynezhang/blog" title="fork me">me</a>
           </div>
             <!-- Global site tag (gtag.js) - Google Analytics -->
             <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111085337-1"></script>

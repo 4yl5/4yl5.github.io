@@ -1,6 +1,7 @@
 ---
 title: F1签证流水帐
 layout: post
+guid: urn:uuid:4f043539-f2da-442c-8668-0ebd2db4e8bb
 tags:
 - America
 - Visa

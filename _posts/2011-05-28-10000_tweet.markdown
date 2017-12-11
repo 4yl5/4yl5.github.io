@@ -1,6 +1,7 @@
 ---
 title: 这是我的第一万推唉...
 layout: post
+guid: urn:uuid:cc3861ef-7b3b-4d52-b847-6986688eae2c
 tags:
 - Life
 - Twitter

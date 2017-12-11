@@ -1,6 +1,7 @@
 ---
 title: 清晨和寮国一起醒来
 layout: post
+guid: urn:uuid:fa0b9a53-29ac-41ab-86ba-5fde80f4e93e
 tags:
 - Asia
 - Lao

@@ -1,6 +1,7 @@
 ---
 title: 弄了台F3HP.
 layout: post
+guid: urn:uuid:d66e60ba-965b-4647-be18-61d9048b2d1b
 tags:
 - F3HP
 - Film

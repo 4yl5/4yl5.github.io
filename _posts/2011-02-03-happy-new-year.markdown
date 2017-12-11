@@ -1,6 +1,7 @@
 ---
 title: 新年。
 layout: post
+guid: urn:uuid:0164e58e-15b7-4d1b-aaad-faa1b415c64c
 tags:
 - Happy New Year
 ---

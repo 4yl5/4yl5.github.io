@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="author" content="yulin" />
+    <meta name="author" content="Yulin" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     
     <title>乌镇，一个美丽的水乡</title>
@@ -108,13 +108,60 @@
 
   </section>
   
+  <div class="divider">
+    <span>
+    
+    <a href="/2010/12/13/mre-2-try-to-eat.html"><i class="fa fa-chevron-left"></i></a>
+    
+    </span>
+ 
+    <span><a href="javascript:leave_comment();" id="leave_comment_link"><i class="fa fa-comment-o"></i></a></span>
+    <span><a href="javascript:collapse_comment();" id="collapse_comment_link" style="display:none;"><i class="fa fa-chevron-up"></i></a></span>
+
+
+    <span>
+    
+    <a href="/2011/01/20/2011-01-19-11-30-am.html"><i class="fa fa-chevron-right"></i></a>
+    
+    </span>
+  </div>
+
+
+  <section class="comment">
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+      var disqus_shortname = '{"shortname"=>"yulin-me"}';
+      var disqus_identifier = 'urn:uuid:f3885181-46e3-4a80-a395-f3ad9b157fdd';
+
+      function leave_comment() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = 'http://yulin-me.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+          $("#leave_comment_link").css("display", "none");
+          $("#collapse_comment_link").css("display", "");
+      };
+      function collapse_comment() {
+          // document.getElementById("disqus_thread").innerHTML = '';
+          $("#disqus_thread").slideUp(400, function() {
+              $("#disqus_thread").empty();
+              $("#leave_comment_link").css("display", "");
+              $("#collapse_comment_link").css("display", "none");
+              $("#disqus_thread").css("display", "");
+          });
+      };
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  </section>
+
+
+  
 </article>
 
         </div>
         <footer>
           <div>
             
-            &copy; 2010 ~ 2017 yulin | powered by jekyll | themed by <a href="http://lhzhang.com" title="sext vi">sext vi</a> | fork <a href="https://github.com/waynezhang/blog" title="fork me">me</a>
+            &copy; 2010 ~ 2017 Yulin | powered by jekyll | themed by <a href="http://lhzhang.com" title="sext vi">sext vi</a> | fork <a href="https://github.com/waynezhang/blog" title="fork me">me</a>
           </div>
             <!-- Global site tag (gtag.js) - Google Analytics -->
             <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111085337-1"></script>

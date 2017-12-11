@@ -1,6 +1,7 @@
 ---
 title: This 2 week
 layout: post
+guid: urn:uuid:1bc052a8-8891-48b1-8ada-cd3d52e70487
 tags:
 - life
 ---

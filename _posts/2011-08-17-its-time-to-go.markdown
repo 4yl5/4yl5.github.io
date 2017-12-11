@@ -1,6 +1,7 @@
 ---
 title: It's time to go...
 layout: post
+guid: urn:uuid:cb35fd64-1373-4d11-b5ce-0da3aee96987
 tags:
 - Life
 ---

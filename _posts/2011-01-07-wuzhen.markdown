@@ -1,6 +1,7 @@
 ---
-layout: post
 title: 乌镇，一个美丽的水乡
+layout: post
+guid: urn:uuid:f3885181-46e3-4a80-a395-f3ad9b157fdd
 tags:
 - 2011
 - China

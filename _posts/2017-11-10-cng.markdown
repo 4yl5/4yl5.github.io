@@ -1,6 +1,7 @@
 ---
 title: "《中国国家地理 》选美中国"
 layout: post
+guid: urn:uuid:297fc7d1-e325-4e99-bff1-97a5a8bbebad
 tags:
 - China
 - List

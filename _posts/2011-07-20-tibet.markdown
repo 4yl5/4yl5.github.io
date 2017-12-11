@@ -1,6 +1,7 @@
 ---
 title: Tibet
 layout: post
+guid: urn:uuid:50b3d059-bf19-429f-98db-0eab7c7c7a62
 tags:
 - '2011'
 - China

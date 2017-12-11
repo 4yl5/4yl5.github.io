@@ -1,6 +1,7 @@
 ---
 title: Hello world！
 layout: post
+guid: urn:uuid:996de26a-38ac-451b-a6ce-a090e99fddc5
 tags:
   - website
 ---

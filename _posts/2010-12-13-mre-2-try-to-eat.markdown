@@ -1,6 +1,7 @@
 ---
 title: 美军MRE 2号菜单——试吃
 layout: post
+guid: urn:uuid:bc142ad7-878c-47f9-9b5f-9e6c2df02126
 tags:
   - MRE
   - Try to eat

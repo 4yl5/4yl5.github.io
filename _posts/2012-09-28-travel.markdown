@@ -1,6 +1,7 @@
 ---
 title: 甘肃、青海湖
 layout: post
+guid: urn:uuid:145d873f-967a-4aa5-9dc5-6500405a7c41
 tags:
 - '2012'
 - China

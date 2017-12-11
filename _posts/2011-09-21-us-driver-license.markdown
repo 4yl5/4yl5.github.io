@@ -1,6 +1,7 @@
 ---
 title: 在美国考驾照
 layout: post
+guid: urn:uuid:59346139-eea6-45a4-83a9-77c19cc77128
 tags:
 - driver's license
 - Life

@@ -1,6 +1,7 @@
 ---
 title: Life in U.S.
 layout: post
+guid: urn:uuid:fc6dc7d1-0aa1-4cd4-a2b2-97fb47b7277f
 tags:
 - Life
 - USA

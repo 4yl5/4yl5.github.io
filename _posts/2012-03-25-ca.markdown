@@ -1,6 +1,7 @@
 ---
 title: 卡理佛泥呀——零碎
 layout: post
+guid: urn:uuid:95c945f4-0a68-41a0-8d68-5f57a3e4471a
 tags:
 - California
 - Los Angeles
