@@ -6,7 +6,9 @@ markdown: kramdown
 
 author: "yulin"
 atom-baseurl: "http://yulin.me"
-disqus: "gopherwood"
+
+comment:
+    disqus: yulin-me
 
 navigations:
   - title: Archive
