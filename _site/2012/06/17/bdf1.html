@@ -133,6 +133,8 @@ UA也很给面子的莫名其妙地给我升了仓</p>
             s.src = 'https://yulin-me.disqus.com/embed.js';
             s.setAttribute('data-timestamp', +new Date());
             (d.head || d.body).appendChild(s);
+          $("#leave_comment_link").css("display", "none");
+          $("#collapse_comment_link").css("display", "");
             })();
       function collapse_comment() {
           // document.getElementById("disqus_thread").innerHTML = '';
