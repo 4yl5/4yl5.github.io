@@ -117,14 +117,14 @@ Twitter不是新浪微博，这里有着一片自由的土壤，用不着自我�
       var disqus_shortname = 'yulin-me';
       var disqus_identifier = 'urn:uuid:cc3861ef-7b3b-4d52-b847-6986688eae2c';
 
-      (function leave_comment() { // DON'T EDIT BELOW THIS LINE
+      function leave_comment() { // DON'T EDIT BELOW THIS LINE
             var d = document, s = d.createElement('script');
             s.src = 'https://yulin-me.disqus.com/embed.js';
             s.setAttribute('data-timestamp', +new Date());
             (d.head || d.body).appendChild(s);
           $("#leave_comment_link").css("display", "none");
           $("#collapse_comment_link").css("display", "");
-            })();
+            }();
       function collapse_comment() {
           // document.getElementById("disqus_thread").innerHTML = '';
           $("#disqus_thread").slideUp(400, function() {

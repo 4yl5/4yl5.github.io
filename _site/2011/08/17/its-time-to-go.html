@@ -94,14 +94,14 @@ Departing on Wed, Aug 17, 2011</p>
       var disqus_shortname = 'yulin-me';
       var disqus_identifier = 'urn:uuid:cb35fd64-1373-4d11-b5ce-0da3aee96987';
 
-      (function leave_comment() { // DON'T EDIT BELOW THIS LINE
+      function leave_comment() { // DON'T EDIT BELOW THIS LINE
             var d = document, s = d.createElement('script');
             s.src = 'https://yulin-me.disqus.com/embed.js';
             s.setAttribute('data-timestamp', +new Date());
             (d.head || d.body).appendChild(s);
           $("#leave_comment_link").css("display", "none");
           $("#collapse_comment_link").css("display", "");
-            })();
+            }();
       function collapse_comment() {
           // document.getElementById("disqus_thread").innerHTML = '';
           $("#disqus_thread").slideUp(400, function() {

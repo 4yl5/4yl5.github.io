@@ -174,14 +174,14 @@
       var disqus_shortname = 'yulin-me';
       var disqus_identifier = 'urn:uuid:50b3d059-bf19-429f-98db-0eab7c7c7a62';
 
-      (function leave_comment() { // DON'T EDIT BELOW THIS LINE
+      function leave_comment() { // DON'T EDIT BELOW THIS LINE
             var d = document, s = d.createElement('script');
             s.src = 'https://yulin-me.disqus.com/embed.js';
             s.setAttribute('data-timestamp', +new Date());
             (d.head || d.body).appendChild(s);
           $("#leave_comment_link").css("display", "none");
           $("#collapse_comment_link").css("display", "");
-            })();
+            }();
       function collapse_comment() {
           // document.getElementById("disqus_thread").innerHTML = '';
           $("#disqus_thread").slideUp(400, function() {

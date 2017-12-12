@@ -131,14 +131,14 @@ the most Important National Monument in Laos<br />
       var disqus_shortname = 'yulin-me';
       var disqus_identifier = 'urn:uuid:fa0b9a53-29ac-41ab-86ba-5fde80f4e93e';
 
-      (function leave_comment() { // DON'T EDIT BELOW THIS LINE
+      function leave_comment() { // DON'T EDIT BELOW THIS LINE
             var d = document, s = d.createElement('script');
             s.src = 'https://yulin-me.disqus.com/embed.js';
             s.setAttribute('data-timestamp', +new Date());
             (d.head || d.body).appendChild(s);
           $("#leave_comment_link").css("display", "none");
           $("#collapse_comment_link").css("display", "");
-            })();
+            }();
       function collapse_comment() {
           // document.getElementById("disqus_thread").innerHTML = '';
           $("#disqus_thread").slideUp(400, function() {

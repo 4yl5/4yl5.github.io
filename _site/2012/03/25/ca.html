@@ -172,14 +172,14 @@ Bus加Metro坐了近两个小时。我对美帝的公交系统已经很淡定了
       var disqus_shortname = 'yulin-me';
       var disqus_identifier = 'urn:uuid:95c945f4-0a68-41a0-8d68-5f57a3e4471a';
 
-      (function leave_comment() { // DON'T EDIT BELOW THIS LINE
+      function leave_comment() { // DON'T EDIT BELOW THIS LINE
             var d = document, s = d.createElement('script');
             s.src = 'https://yulin-me.disqus.com/embed.js';
             s.setAttribute('data-timestamp', +new Date());
             (d.head || d.body).appendChild(s);
           $("#leave_comment_link").css("display", "none");
           $("#collapse_comment_link").css("display", "");
-            })();
+            }();
       function collapse_comment() {
           // document.getElementById("disqus_thread").innerHTML = '';
           $("#disqus_thread").slideUp(400, function() {
