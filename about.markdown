@@ -5,7 +5,7 @@ layout: page
 
 a
 
-> | Gemini | Appleist | Wanderlust |
+> Gemini; Appleist; Wanderlust  
 
 who could be found in 
 
