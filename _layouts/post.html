@@ -52,7 +52,18 @@ comments: true
   <script type="text/javascript">
       var disqus_shortname = '{{ site.disqus }}';
       var disqus_identifier = '{{ page.guid }}'; 
+      (function() { // DON'T EDIT BELOW THIS LINE
+            var d = document, s = d.createElement('script');
+            s.src = 'https://yulin-me.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+            })();
+      
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  </section>
 
+<!-- BEGIN comment
       function leave_comment() {
             var d = document, s = d.createElement('script');
             s.src = 'https://yulin-me.disqus.com/embed.js';
@@ -70,10 +81,7 @@ comments: true
               $("#disqus_thread").css("display", "");
           });
       };
-      
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-  </section>
-
+  END comment -->    
+    
   {% endif %}
 </article>
