@@ -1,5 +1,5 @@
 ---
-title: Lu老师游记之--新奥尔良
+title: Lu老师游记之——新奥尔良
 layout: post
 guid: urn:uuid:3c62b680-0d02-4e94-b352-4719303d7fa8
 tags:

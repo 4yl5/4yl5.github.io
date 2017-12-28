@@ -1,7 +1,7 @@
 highlighter: rouge
+markdown: kramdown
 permalink: /:year/:month/:day/:title.html
 name: "六月烟雨"
-markdown: kramdown
 
 author: "Yulin"
 atom-baseurl: "http://yulin.me"
