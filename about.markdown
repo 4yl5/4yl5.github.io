@@ -13,4 +13,4 @@ who could be found in
 
 or in
 
-> Flickr: [https://www.flickr.com/photos/snake_bill/](https://www.flickr.com/photos/snake_bill/)
+> Instagram: [https://www.instagram.com/snake_bill/](https://www.instagram.com/snake_bill/)
