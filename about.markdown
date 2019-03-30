@@ -9,7 +9,7 @@ a
 
 who could be found in 
 
-> Twtiiter: [@4yl5](https://twitter.com/4yl5)
+> Twtitter: [@4yl5](https://twitter.com/4yl5)
 
 or in
 
