@@ -4,7 +4,7 @@ layout: default
 
 <div>
   <ul class="listing">
-  {% for post in site.posts limit: 1 %}
+  {% for post in site.posts limit: 4 %}
   <article class="content">
     <section class="title">
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -20,12 +20,14 @@ layout: default
       {% endfor %}
     </span>
     {% endif %}
- 
     </section>
     <section class="post">
-    {{ post.content }}
+    {{ post.excerpt }}
+        {% if post.excerpt != post.content %}
+        <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+        {% endif %}
     </section>
-    </article>
+  </article>
   {% endfor %}
   </ul>
   <div class="divider"></div>
