@@ -5,7 +5,7 @@ guid: urn:uuid:fa0b9a53-29ac-41ab-86ba-5fde80f4e93e
 tags:
 - Asia
 - Lao
-- Travel
+- Traveling
 ---
 Lao，老挝，不过我更喜欢寮国这个名字。就像永珍比万象更好听一样。  
 为什么要选这里作我第一次偷偷跑出去玩的国家？  

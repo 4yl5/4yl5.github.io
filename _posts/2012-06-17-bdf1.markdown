@@ -5,7 +5,7 @@ guid: urn:uuid:6f121259-42c0-4a86-9805-6c88c44c386e
 tags:
 - Canada
 - F1
-- Travel
+- Traveling
 - 生日
 ---
 前十几天话说突然就20岁了，呃。。。  

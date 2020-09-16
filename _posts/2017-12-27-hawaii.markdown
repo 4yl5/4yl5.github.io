@@ -3,7 +3,7 @@ title: Lu老师游记之——来了就走不脱的夏威夷
 layout: post
 guid: urn:uuid:43e5fc93-f387-43f3-b2b4-2f771072cd9b
 tags:
-  - traveling
+  - Traveling
   - Hawaii
   - Kauai
   - Honolulu

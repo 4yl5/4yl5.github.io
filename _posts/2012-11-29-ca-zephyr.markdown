@@ -4,7 +4,7 @@ layout: post
 guid: urn:uuid:00e12e04-d6bc-4361-8b7e-6306fb80a0ee
 tags:
 - California Zephyr
-- Travel
+- Traveling
 - USA
 ---
 貌似前面有文章烂尾了，不管了，先写这个

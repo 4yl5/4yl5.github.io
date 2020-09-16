@@ -1,5 +1,5 @@
 ---
-title: 雨林飞雪系列：罗德岛——压力下的释放之旅
+title: 罗德岛——压力下的释放之旅
 layout: post
 guid: urn:uuid:517f5a16-c477-11ea-87d0-0242ac130003
 tags:
@@ -8,7 +8,7 @@ tags:
   - US
   - Beach
   - Island
-  - traveling
+  - Traveling
   - Covid-19
 ---
 
